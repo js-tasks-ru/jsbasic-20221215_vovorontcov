@@ -1,5 +1,5 @@
 function factorial(n) {
-  var f = 1;
+  let f = 1;
     while(n){
         f *= n--;
     }
